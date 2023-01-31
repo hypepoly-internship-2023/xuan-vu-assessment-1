@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
     public float forwardForce = 2000f;
